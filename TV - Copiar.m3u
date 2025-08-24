@@ -18,7 +18,7 @@ https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="Nick Latino" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/cb/Nickelodeon-1.png/revision/latest?cb=20180904201607" group-title="Perú",Nick Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId= url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/mx.xml.gz"
 #EXTINF:-1 tvg-id="GOL PERÚ" tvg-logo="https://img.golazoplay.com/uploads/gol_peru_7167cd54dd.webp" group-title="Perú",GOL PERÚ
-https://qzv4jmsc.fubohd.com/golperu/mono.m3u8?token=c92e2de3ce810dea19283a6fad4f6d458a68848b-67-1756095797-1756077797
+https://d1.merichunidya.com:1686/hls/mdeportes.m3u8?md5=aXA-OIFoUeHHRY0ZW5i3uw&expires=1756086424
 #EXTINF:-1 tvg-id="LIGA1MAX" tvg-logo="https://img.golazoplay.com/uploads/liga_1_max_8d490f8b2e.webp" group-title="Perú",LIGA1MAX
 https://a2vlca.fubohd.com/liga1max/mono.m3u8?token=05cce9987c9bcf3ec61b76753c716c17df6848d1-5d-1756095875-1756077875
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="Noticias",ADN40
