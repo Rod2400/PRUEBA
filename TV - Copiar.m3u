@@ -17,10 +17,6 @@ https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/v
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="Nick Latino" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/cb/Nickelodeon-1.png/revision/latest?cb=20180904201607" group-title="Perú",Nick Latino
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId= url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/mx.xml.gz"
-#EXTINF:-1 tvg-id="GOL PERÚ" tvg-logo="https://img.golazoplay.com/uploads/gol_peru_7167cd54dd.webp" group-title="Perú",GOL PERÚ
-https://24a1.crackstreamslivehd.com/global/golperu/index.m3u8?token=13983632ac7ca5d361e6180fabe7eb092df550dd-3d-1756124936-1756070936&ip=190.43.106.181
-#EXTINF:-1 tvg-id="LIGA1MAX" tvg-logo="https://img.golazoplay.com/uploads/liga_1_max_8d490f8b2e.webp" group-title="Perú",LIGA1MAX
-https://a2vlca.fubohd.com/liga1max/mono.m3u8?token=05cce9987c9bcf3ec61b76753c716c17df6848d1-5d-1756095875-1756077875
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="Noticias",ADN40
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 #EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="Noticias",C4 en Alerta
@@ -177,6 +173,20 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
 #EXTINF:-1 tvg-id="680bdaf54d7cf165c705f91e" tvg-logo="https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1749054649625.png" group-title="Investigación",Zona Investigación TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://181.78.201.70:8000/play/a0h0/index.m3u8
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+http://181.119.86.68:8000/play/c003/index.m3u8
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
+http://179.51.136.19:8000/play/a0q4/index.m3u8
+#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/512px-Tooncast_logo.svg.png" group-title="Kids",Tooncast
+http://181.78.201.70:8000/play/a0tg/index.m3u8
+#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/512px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
+http://181.119.85.222:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://static.wikia.nocookie.net/yatoroba/images/c/c3/1920px-Disney_Junior.png/revision/latest?cb=20190724205757&path-prefix=es" group-title="Kids",Disney Junior
+http://179.51.136.19:8000/play/a1g3/index.m3u8
+#EXTINF:-1 tvg-id="fmh-kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8ntAJwU3Xm3-weiu0B7oLlKv3tdNmF7nDuIEkTT9xhLLi6t02GWVTG0k&s=10" group-title="Kids",FMH Kids
+http://181.119.86.68:8000/play/b037/index.m3u8
 #EXTINF:-1 tvg-id="6759ee82bd523200083b4f0f" tvg-logo="https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png" group-title="Kids",Avatar: La Leyenda de Aang
 https://jmp2.uk/plu-6759ee82bd523200083b4f0f.m3u8
 #EXTINF:-1 tvg-id="619d5e6a093e7c0007489211" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png" group-title="Kids",Baby Shark TV
