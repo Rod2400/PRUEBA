@@ -15,10 +15,7 @@ https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Perú",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
-#EXTINF:-1 tvg-id="CanalIPe.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Identidad_Peruana_ipe_2020.png/1200px-Identidad_Peruana_ipe_2020.png" group-title="Perú",Canal IPe
-https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
-#EXTINF:-1 tvg-id="Nick Latino" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/c/cb/Nickelodeon-1.png/revision/latest?cb=20180904201607" group-title="Perú",Nick Latino
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d08395f39465da6fb3ec4&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=997&terminate=false&userId= url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/mx.xml.gz"
+
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="Noticias",ADN40
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
 #EXTINF:-1 tvg-id="673f7446030a2c0008231bc3" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="Noticias",C4 en Alerta
@@ -231,18 +228,8 @@ http://181.78.106.127:9000/play/ca032/index.m3u8
 http://fortv.cc:8080/90820916/64752029/86765
 #EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
-#EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/1280px-ESPN3_logo.svg.png" group-title="Deportes",ESPN 3
-http://181.119.86.68:8000/play/b033/index.m3u8
-#EXTINF:-1 tvg-id="espn4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://181.119.85.222:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="espn5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://181.119.86.68:8000/play/b028/index.m3u8
-#EXTINF:-1 tvg-id="espn6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1280px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://181.119.85.222:8000/play/a01s/index.m3u8
 #EXTINF:-1 tvg-id="directv-sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXZFZkNDHQTsl5ga72Rk5RkksdwOhQToBncEvF7vQjrMrBoex-hUPdMih&s=10" group-title="Deportes",DirectTV Sports
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id="directv-sports2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OkWufdjAZjrvt_G-hJs4rE7LNL-LjbZ6GalhtjoBR_sg7Rcz2tS3e5kl&s=10" group-title="Deportes",DirectTV Sports 2
-http://179.51.136.19:8000/play/a112/index.m3u8
 #EXTINF:-1 tvg-id="tnt-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1280px-TNT_Sports_Logo.svg.png" group-title="Deportes",TNT Sports
 http://181.78.201.70:8000/play/a0tx/index.m3u8
 #EXTINF:-1 tvg-id="tyc-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
@@ -255,8 +242,6 @@ http://87.120.179.187:8000/play/a02c
 http://87.120.179.187:8000/play/a00k
 #EXTINF:-1 tvg-id="redbull-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Red_Bull_TV_logo.svg/512px-Red_Bull_TV_logo.svg.png" group-title="Deportes",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="racer" tvg-logo="https://i.imgur.com/RacerTV.png" group-title="Deportess",Racer TV
-https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes",Azteca Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
