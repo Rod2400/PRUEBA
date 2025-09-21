@@ -64,8 +64,13 @@ https://jmp2.uk/plu-5dd6ed41526c77000941411c.m3u8
 https://jmp2.uk/plu-5f2817d3d7573a00080f9175.m3u8
 #EXTINF:-1 tvg-id="62c5d80dc6de440007e033eb" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png" group-title="Películas",Runtime
 https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
+
 #EXTINF:-1 tvg-id="66aa6e03fe11e500086038ed" tvg-logo="https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png" group-title="Series",Al Fondo Hay Sitio
 https://jmp2.uk/plu-66aa6e03fe11e500086038ed.m3u8
+
+#EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="Series", Los Simpson 24/7
+https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="67e598e28b99330f75b4c629" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png" group-title="Series",Andromeda
 https://jmp2.uk/plu-67e598e28b99330f75b4c629.m3u8
 #EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series",CSI: Miami
