@@ -1,19 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.imgur.com/oKHQOE8.png" group-title="Perú",America Television
+#EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.imgur.com/0MNU0bu.png" group-title="Perú",America Television
 http://181.188.216.5:18000/play/a014/index.m3u8
-#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Panamericana-tv.svg/1862px-Panamericana-tv.svg.png" group-title="Perú",Panamericana TV
+#EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/WX2CUSi.png" group-title="Perú",Panamericana TV
 http://200.60.124.19:29000/play/a04s/index.m3u8
-#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/ATV_logo_2020.png" group-title="Perú",ATV
+#EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/hcrNaSn.png" group-title="Perú",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Latina_Television_-_Logotipo.png" group-title="Perú",Latina
+#EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/hABZSm9.png" group-title="Perú",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RPP" tvg-logo="https://i.imgur.com/fi1j4XO.png" group-title="Perú",RPP
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/12893
-#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg/2560px-Tv_Per%C3%BA_-_Logo_2019_Reducido_%28TVPE%29.svg.png" group-title="Perú",TV Peru
+#EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6stFiou.png" group-title="Perú",TV Peru
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
-#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Perú",ATV+
+#EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/sE4hhZE.png" group-title="Perú",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Logoexitosa.png" group-title="Perú",Exitosa TV
+#EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/5QmqZbb.png" group-title="Perú",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="Noticias",ADN40
@@ -172,15 +170,16 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5ea71d48af1d0b0007d837f4.m3u8
 #EXTINF:-1 tvg-id="680bdaf54d7cf165c705f91e" tvg-logo="https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1749054649625.png" group-title="Investigación",Zona Investigación TV
 https://jmp2.uk/plu-680bdaf54d7cf165c705f91e.m3u8
-#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+
+#EXTINF:-1 tvg-id="cartoon-network" tvg-logo="https://i.imgur.com/sGCOioj.png" group-title="Kids",Cartoon Network
 http://181.78.201.70:8000/play/a0h0/index.m3u8
-#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/512px-2019_Disney_Channel_logo.svg.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://i.imgur.com/cQ68AGt.png" group-title="Kids",Disney Channel
 http://181.119.86.68:8000/play/c003/index.m3u8
-#EXTINF:-1 tvg-id="nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/512px-Nickelodeon_2009_logo.svg.png" group-title="Kids",Nickelodeon
+#EXTINF:-1 tvg-id="nick" tvg-logo="https://i.imgur.com/Q5XULek.png" group-title="Kids",Nickelodeon
 http://179.51.136.19:8000/play/a0q4/index.m3u8
-#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/512px-Tooncast_logo.svg.png" group-title="Kids",Tooncast
+#EXTINF:-1 tvg-id="tooncast" tvg-logo="https://i.imgur.com/Q7yQXq0.png" group-title="Kids",Tooncast
 http://181.78.201.70:8000/play/a0tg/index.m3u8
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/512px-2016_Discovery_Kids_logo.svg.png" group-title="Kids",Discovery Kids
+#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://i.imgur.com/NNKnL9T.png" group-title="Kids",Discovery Kids
 http://181.119.85.222:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="disney-junior" tvg-logo="https://static.wikia.nocookie.net/yatoroba/images/c/c3/1920px-Disney_Junior.png/revision/latest?cb=20190724205757&path-prefix=es" group-title="Kids",Disney Junior
 http://179.51.136.19:8000/play/a1g3/index.m3u8
