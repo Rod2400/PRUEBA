@@ -68,7 +68,7 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 #EXTINF:-1 tvg-id="66aa6e03fe11e500086038ed" tvg-logo="https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png" group-title="Series",Al Fondo Hay Sitio
 https://jmp2.uk/plu-66aa6e03fe11e500086038ed.m3u8
 
-#EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="Series", Los Simpson 24/7
+#EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1920px-The_Simpsons_yellow_logo.svg.png" group-title="Series", Los Simpson 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="67e598e28b99330f75b4c629" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png" group-title="Series",Andromeda
