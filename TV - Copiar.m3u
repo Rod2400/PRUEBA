@@ -67,10 +67,8 @@ https://jmp2.uk/plu-62c5d80dc6de440007e033eb.m3u8
 
 #EXTINF:-1 tvg-id="66aa6e03fe11e500086038ed" tvg-logo="https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png" group-title="Series",Al Fondo Hay Sitio
 https://jmp2.uk/plu-66aa6e03fe11e500086038ed.m3u8
-
-#EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/1920px-The_Simpsons_yellow_logo.svg.png" group-title="Series", Los Simpson 24/7
+#EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://i.imgur.com/TvAqgdQ.png" group-title="Series", Los Simpson 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
-
 #EXTINF:-1 tvg-id="67e598e28b99330f75b4c629" tvg-logo="https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png" group-title="Series",Andromeda
 https://jmp2.uk/plu-67e598e28b99330f75b4c629.m3u8
 #EXTINF:-1 tvg-id="63eb9255c111bc0008fe6ec4" tvg-logo="https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png" group-title="Series",CSI: Miami
@@ -223,20 +221,11 @@ https://jmp2.uk/plu-5ea7215005d66d0007e8128a.m3u8
 
 DEPORTES 
 
-#EXTINF:-1 tvg-id="fox-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports
-http://181.78.106.127:9000/play/ca032/index.m3u8
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1024px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="espn" tvg-logo="https://i.imgur.com/x3N56Dd.png" group-title="Deportes",ESPN
 http://fortv.cc:8080/90820916/64752029/86765
-#EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://i.imgur.com/aI7sZIR.png" group-title="Deportes",ESPN 2
 http://181.119.86.68:8000/play/b032/index.m3u8
-#EXTINF:-1 tvg-id="directv-sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxXZFZkNDHQTsl5ga72Rk5RkksdwOhQToBncEvF7vQjrMrBoex-hUPdMih&s=10" group-title="Deportes",DirectTV Sports
-http://179.51.136.19:8000/play/DSPORTS1/index.m3u8
-#EXTINF:-1 tvg-id="tnt-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1280px-TNT_Sports_Logo.svg.png" group-title="Deportes",TNT Sports
-http://181.78.201.70:8000/play/a0tx/index.m3u8
-#EXTINF:-1 tvg-id="tyc-sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/512px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports
-http://181.78.201.70:8000/play/a0fq/index.m3u8
-#EXTINF:-1 tvg-id="liga-campeones" tvg-logo="https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F2.pngvg.png" group-title="Deportes",Liga de Campeones
-http://195.66.210.10:80/Rtr6yAJJqg/mEAp9xefv6/203795
+
 
 #EXTINF:-1 tvg-id="65cf60d166eec80008724e6f" tvg-logo="https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png" group-title="Deportes",Azteca Deportes Premium
 https://jmp2.uk/plu-65cf60d166eec80008724e6f.m3u8
