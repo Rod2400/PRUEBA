@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.imgur.com/0MNU0bu.png" group-title="Perú",America Television
 http://200.60.124.19:29000/play/a04r/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/WX2CUSi.png" group-title="Perú",Panamericana TV
-http://200.60.124.19:29000/play/a04s/index.m3u8
+http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/WEezGVa.png" group-title="Perú",ATV
 https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/hABZSm9.png" group-title="Perú",Latina
@@ -13,6 +13,15 @@ http://38.183.182.166:8000/play/a12u/index.m3u8
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/k5RSgBP.png" group-title="Perú",Exitosa TV
 https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
+#EXTINF:-1 tvg-id="RPPTV.pe@SD" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="News",RPP TV SD
+http://38.183.182.166:8000/play/a13g/index.m3u8
+#EXTINF:-1 tvg-id="WillaxTV.pe@SD" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="General",Willax TV SD
+http://38.183.182.166:8000/play/a0zn/index.m3u8
+
+#EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Gol_Per%C3%BA_2019.svg/640px-Gol_Per%C3%BA_2019.svg.png" group-title="Sports",Gol Peru SD
+http://38.183.182.166:8000/play/a120/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max SD
+http://38.183.182.166:8000/play/a12t/index.m3u8
 
 #EXTINF:-1 tvg-id="646ccd3681844c000974d6f4" tvg-logo="https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png" group-title="Noticias",ADN40
 https://jmp2.uk/plu-646ccd3681844c000974d6f4.m3u8
