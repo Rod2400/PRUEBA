@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AmericaTelevision.pe" tvg-logo="https://i.imgur.com/0MNU0bu.png" group-title="Perú",America Television
-http://200.60.124.19:29000/play/a04r/index.m3u8
+http://38.183.182.166:8000/play/a0rb/index.m3u8
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-logo="https://i.imgur.com/WX2CUSi.png" group-title="Perú",Panamericana TV
 http://38.183.182.166:8000/play/a0ii/index.m3u8
 #EXTINF:-1 tvg-id="ATV.pe" tvg-logo="https://i.imgur.com/WEezGVa.png" group-title="Perú",ATV
