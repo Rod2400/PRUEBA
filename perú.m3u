@@ -19,8 +19,7 @@ http://38.183.182.166:8000/play/a13g/index.m3u8
 http://38.183.182.166:8000/play/a0zn/index.m3u8
 #EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://i.imgur.com/QPdmtuT.png" group-title="Perú",Gol Peru
 http://38.183.182.166:8000/play/a120/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Perú",L1 Max
+#EXTINF:-1 tvg-id="L1.pe@SD" tvg-logo="https://i.imgur.com/eRmXneK.png" group-title="Sports",L1 SD
+http://148.72.155.144:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max SD
 http://38.183.182.166:8000/play/a12t/index.m3u8
-
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Perú",L1 Max
-https://rm8zcvk3.fubohd.com/liga1max/mono.m3u8?token=d32c50bacbe88eb7746e24c498ca51123099d3c5-f5-1764742890-1764724890
