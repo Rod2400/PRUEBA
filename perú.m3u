@@ -8,18 +8,12 @@ https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/hABZSm9.png" group-title="Perú",Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6stFiou.png" group-title="Perú",TV Peru
-http://38.183.182.166:8000/play/a12u/index.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/54qCnrS.png" group-title="Perú",ATV+
 https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/k5RSgBP.png" group-title="Perú",Exitosa TV
-https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8
+https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Perú",RPP TV
-http://38.183.182.166:8000/play/a13g/index.m3u8
+https://redirector.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WillaxTV" tvg-logo="https://i.imgur.com/bZnDDPH.png" group-title="Perú",Willax TV
 http://38.183.182.166:8000/play/a0zn/index.m3u8
-#EXTINF:-1 tvg-id="GolPeru.pe@SD" tvg-logo="https://i.imgur.com/QPdmtuT.png" group-title="Perú",Gol Peru
-http://38.183.182.166:8000/play/a120/index.m3u8
-#EXTINF:-1 tvg-id="L1.pe@SD" tvg-logo="https://i.imgur.com/eRmXneK.png" group-title="Sports",L1 SD
-http://148.72.155.144:8000/play/a01i/index.m3u8
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Sports",L1 Max SD
-http://38.183.182.166:8000/play/a12t/index.m3u8
