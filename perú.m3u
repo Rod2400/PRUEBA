@@ -8,9 +8,9 @@ http://190.93.224.42/ATV/index.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-logo="https://i.imgur.com/hABZSm9.png" group-title="Perú",Latina
 http://190.93.224.42/LATINA/index.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-logo="https://i.imgur.com/6stFiou.png" group-title="Perú",TV Peru
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8
+https://cablered.iptvperu.tv:1936/cablered/tvperu_new/playlist.m3u8
 #EXTINF:-1 tvg-id="ATVPlus.pe" tvg-logo="https://i.imgur.com/54qCnrS.png" group-title="Perú",ATV+
-http://177.234.249.178:8888/ATV/index.m3u8
+http://190.93.224.42/ATV-PLUS/index.m3u8
 #EXTINF:-1 tvg-id="ExitosaTV.pe" tvg-logo="https://i.imgur.com/k5RSgBP.png" group-title="Perú",Exitosa TV
 https://luna-4-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a451262/index.m3u8
 #EXTINF:-1 tvg-id="RPPTV" tvg-logo="https://i.imgur.com/oBz3CgE.png" group-title="Perú",RPP TV
